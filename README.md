@@ -52,7 +52,7 @@ There's much financial data available that minimizes wrangling and maximizes mod
 
 "Imperfect Models for Stock Trades.pdf" project blog writeup for laymen.
 
-#### 4. ****Project Interaction**
+#### 4. **Project Interaction**
 
 A. The test_train_split function can be run for other validation years and spans.
 
