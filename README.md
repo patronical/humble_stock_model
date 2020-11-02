@@ -1,6 +1,8 @@
-#### humble_stock_model
-Udacity Data Science nanodegree project.
-**1. ****Installation**
+### humble_stock_model
+
+Udacity Data Science nanodegree project.  
+
+#### 1. ****Installation**
 
 "set-up anaconda environment"
 
@@ -34,13 +36,13 @@ python -m ipykernel install --user --name datasci --display-name "Python (datasc
 
 Jupyter Notebook
 
-**2. ****Project Motivation**
+#### 2. ****Project Motivation**
 
 This is a Udacity Data Science nanodegree project.
 
 There's much financial data available that minimizes wrangling and maximizes modeling.
 
-**3. ****File Descriptions**
+#### 3. ****File Descriptions**
 
 "GSPC.csv" is a Yahoo Finance download of S&P 500 index data.
 
@@ -50,7 +52,7 @@ There's much financial data available that minimizes wrangling and maximizes mod
 
 "Imperfect Models for Stock Trades.pdf" project blog writeup for laymen.
 
-**4. ****Project Interaction**
+#### 4. ****Project Interaction**
 
 A. The test_train_split function can be run for other validation years and spans.
 
