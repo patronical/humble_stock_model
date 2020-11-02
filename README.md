@@ -1,10 +1,10 @@
-# humble_stock_model
+#### humble_stock_model
 Udacity Data Science nanodegree project.
 **1. ****Installation**
 
-# set-up anaconda environment
+"set-up anaconda environment"
 
-# launch anaconda prompt
+"launch anaconda prompt"
 
 conda update -n base -c defaults conda
 
@@ -30,7 +30,7 @@ conda update -y -q --all
 
 python -m ipykernel install --user --name datasci --display-name "Python (datasci)"
 
-# navigate to folder with datafiles and notebook
+"navigate to folder with datafiles and notebook"
 
 Jupyter Notebook
 
