@@ -58,7 +58,7 @@ A. The test_train_split function can be run for other validation years and spans
 
 B. The rest of the notebook may be run sequentially to ascertain improvements.
 
-5. Licensing, Acknowledgments
+#### 5. Licensing, Acknowledgments
 
 A. References:
 
