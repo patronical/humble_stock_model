@@ -2,7 +2,7 @@
 
 Udacity Data Science nanodegree project.  
 
-#### 1. ****Installation**
+#### 1. **Installation**
 
 "set-up anaconda environment"
 
@@ -36,13 +36,13 @@ python -m ipykernel install --user --name datasci --display-name "Python (datasc
 
 Jupyter Notebook
 
-#### 2. ****Project Motivation**
+#### 2. **Project Motivation**
 
 This is a Udacity Data Science nanodegree project.
 
 There's much financial data available that minimizes wrangling and maximizes modeling.
 
-#### 3. ****File Descriptions**
+#### 3. **File Descriptions**
 
 "GSPC.csv" is a Yahoo Finance download of S&P 500 index data.
 
@@ -58,7 +58,7 @@ A. The test_train_split function can be run for other validation years and spans
 
 B. The rest of the notebook may be run sequentially to ascertain improvements.
 
-#### 5. Licensing, Acknowledgments
+#### 5. **Licensing, Acknowledgments**
 
 A. References:
 
