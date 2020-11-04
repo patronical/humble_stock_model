@@ -70,7 +70,11 @@ A. References:
 
  Hyperparameter Tuning the Random Forest in Python
 
-<https://towardsdatascience.com/hyperparameter-tuning-the-random-forest-in-python-using-scikit-learn-28d2aa77dd74>         
+ <https://towardsdatascience.com/hyperparameter-tuning-the-random-forest-in-python-using-scikit-learn-28d2aa77dd74>         
+
+ CRISP-DM Reference Model
+
+ <https://www.spss.ch/upload/1109179904_CRISP-DM%20Process%20Model.pdf>
 
 B. License, <https://opensource.org/licenses/MIT>
 
